@@ -1,13 +1,3 @@
-'''
-This was an attempt to limit "guessing" to just streering while the car
-is driven at a constant speed
-This was another attempt to prevent RL cheating by driving straight
-This was done by applying a spin st spawn
-also image is cropped for the road only
-
-'''
-
-
 from stable_baselines3 import PPO #PPO
 from typing import Callable
 import os
